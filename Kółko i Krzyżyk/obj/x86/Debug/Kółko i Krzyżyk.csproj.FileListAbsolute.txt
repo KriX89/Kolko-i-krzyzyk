@@ -1,0 +1,38 @@
+C:\Users\kio-8\Desktop\Kółko i Krzyżyk — kopia\Kółko i Krzyżyk\obj\x86\Debug\Kółko i Krzyżyk.exe
+C:\Users\kio-8\Desktop\Kółko i Krzyżyk — kopia\Kółko i Krzyżyk\obj\x86\Debug\Kółko i Krzyżyk.pdb
+C:\Users\kio-8\Desktop\dd\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko i Krzyżyk.exe
+C:\Users\kio-8\Desktop\dd\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko i Krzyżyk.pdb
+C:\Users\kio-8\Desktop\dd\Kółko i Krzyżyk\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.exe
+C:\Users\kio-8\Desktop\dd\Kółko i Krzyżyk\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.pdb
+C:\Users\kio-8\Desktop\dd\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko_i_Krzyżyk.Form1.resources
+C:\Users\kio-8\Desktop\dd\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko_i_Krzyżyk.Form2.resources
+C:\Users\kio-8\Desktop\dd\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko_i_Krzyżyk.Properties.Resources.resources
+C:\Users\kio-8\Desktop\dd\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko i Krzyżyk.csproj.GenerateResource.Cache
+C:\Users\kio-8\Desktop\dd\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko i Krzyżyk.csprojResolveAssemblyReference.cache
+C:\Users\kio-8\Desktop\Kółko i Krzyżyk\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.exe
+C:\Users\kio-8\Desktop\Kółko i Krzyżyk\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.pdb
+C:\Users\kio-8\Desktop\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko_i_Krzyżyk.Form1.resources
+C:\Users\kio-8\Desktop\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko_i_Krzyżyk.Form2.resources
+C:\Users\kio-8\Desktop\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko_i_Krzyżyk.Form3.resources
+C:\Users\kio-8\Desktop\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko_i_Krzyżyk.Properties.Resources.resources
+C:\Users\kio-8\Desktop\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko i Krzyżyk.csproj.GenerateResource.Cache
+C:\Users\kio-8\Desktop\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko i Krzyżyk.exe
+C:\Users\kio-8\Desktop\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko i Krzyżyk.pdb
+C:\Users\kio-8\Desktop\Projekty gry C#\Kółko i Krzyżyk\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.exe
+C:\Users\kio-8\Desktop\Projekty gry C#\Kółko i Krzyżyk\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.pdb
+C:\Users\kio-8\Desktop\Projekty gry C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko_i_Krzyżyk.Form1.resources
+C:\Users\kio-8\Desktop\Projekty gry C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko_i_Krzyżyk.Form2.resources
+C:\Users\kio-8\Desktop\Projekty gry C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko_i_Krzyżyk.Form3.resources
+C:\Users\kio-8\Desktop\Projekty gry C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko_i_Krzyżyk.Properties.Resources.resources
+C:\Users\kio-8\Desktop\Projekty gry C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko i Krzyżyk.csproj.GenerateResource.Cache
+C:\Users\kio-8\Desktop\Projekty gry C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko i Krzyżyk.exe
+C:\Users\kio-8\Desktop\Projekty gry C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko i Krzyżyk.pdb
+C:\Users\kio-8\Desktop\Projekty gry C#\Projekty gry C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko i Krzyżyk.exe
+C:\Users\kio-8\Desktop\Projekty gry C#\Projekty gry C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko i Krzyżyk.pdb
+C:\Users\kio-8\Desktop\Projekty gry C#\Projekty gry C#\Kółko i Krzyżyk\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.exe
+C:\Users\kio-8\Desktop\Projekty gry C#\Projekty gry C#\Kółko i Krzyżyk\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.pdb
+C:\Users\kio-8\Desktop\Projekty gry C#\Projekty gry C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko_i_Krzyżyk.Form1.resources
+C:\Users\kio-8\Desktop\Projekty gry C#\Projekty gry C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko_i_Krzyżyk.Form2.resources
+C:\Users\kio-8\Desktop\Projekty gry C#\Projekty gry C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko_i_Krzyżyk.Form3.resources
+C:\Users\kio-8\Desktop\Projekty gry C#\Projekty gry C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko_i_Krzyżyk.Properties.Resources.resources
+C:\Users\kio-8\Desktop\Projekty gry C#\Projekty gry C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\x86\Debug\Kółko i Krzyżyk.csproj.GenerateResource.Cache
